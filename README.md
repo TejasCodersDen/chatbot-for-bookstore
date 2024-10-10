@@ -1,4 +1,4 @@
-# Bookbuddy chat - a full-stack customer support chatbot
+# AI Chatbot using OpenAPI.
 
 A project to learn modern full-stack development made by Josh.
 
